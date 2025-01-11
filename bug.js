@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo with a large amount of data. The error message might be vague, such as `AsyncStorage has been exceeded`, or you might encounter an app crash without a clear error message.  This is because AsyncStorage has storage limits that vary depending on the device and OS. Exceeding these limits can cause unpredictable behavior.
